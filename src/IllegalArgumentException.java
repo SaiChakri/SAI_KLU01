@@ -1,7 +1,5 @@
 
 
-
-
 public class IllegalArgumentException extends Exception {
 	
 	public String toString()
